@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import Form from "./Form";
+import Form from "../Sign-Up/Form";
 
 function Banner() {
   return (
