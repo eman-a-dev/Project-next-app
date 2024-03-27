@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
-const SignupLayout = ({children}) => {
-  return (
-    <>
-        {children}
-    </>
-  )
-}
+const SignupLayout = ({ children }) => {
+  return <>{children}</>;
+};
 
-export default SignupLayout
+export default SignupLayout;
